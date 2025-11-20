@@ -109,13 +109,13 @@ DELETE request to Base_URL/api/product/delete/id_of_item
 1. Clone the project
 
 ```bash
-  git clone https://github.com/abdulawalarif/ecommerce_backend_DRF.git
+  git clone https://github.com/anttonio-dent/ecommerce-django-api.git
 ```
 
 2. Go to the project directory
 
 ```bash
-  cd ecommerce_backend_DRF && cd ecommerce_backend
+  cd ecommerce-django-api && cd ecommerce_backend
 ```
 
 3. Create a virtual environment
@@ -184,11 +184,6 @@ please submit an issue using the issues tab above. If you would like to submit a
 
 ## Known issues (Work in progress)
 *  Update method do no delete images it just add new images with existing image list. 
-
-
-## Author
-
-- [@abdulawalarif](https://github.com/abdulawalarif)
   
 ## License
 
